@@ -1,4 +1,5 @@
 voila==0.2.6
+nbconvert==6.4.3
 folium==0.12.1
 ipywidgets==7.6.3
 ipyleaflet==0.14.0
